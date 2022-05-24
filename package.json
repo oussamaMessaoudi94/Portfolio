@@ -4,5 +4,8 @@
     "authors": "author",
     "version": "1.0.0",
     "main": "index.js",
-    "dependencies": {}
+    "dependencies": {
+        "firebase": "^9.1.1",
+        "heroku": "^7.59.0"
+    }
 }
